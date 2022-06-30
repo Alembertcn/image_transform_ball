@@ -51,15 +51,15 @@ z = sin(wd)
 GestureDetector 监听手势将dy,dx转为绕x轴和y的旋转变量 计算出旋转角度
 绕x轴旋转矩阵变换为
 [
-    1       0       0
-    0       cos(rx) -sin(rx)
-    0      sin(rx) cos(rx) 
+    1       0       0  
+    0       cos(rx) -sin(rx)  
+    0      sin(rx) cos(rx)  
 ]
 
 绕y轴旋转矩阵变换为
 [
-    cos(rx)  0       sin(rx)
-    0        1       0
-    -sin(rx) 0       cos(rx)       
+    cos(rx)  0       sin(rx)  
+    0        1       0  
+    -sin(rx) 0       cos(rx)  
 ]
 将坐标经过两次矩阵变换得到最后的x,y,z坐标，然后绘制到画布上面，这里可以根据z坐标的正负来区分正反面的颜色
