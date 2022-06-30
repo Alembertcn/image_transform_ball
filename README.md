@@ -14,10 +14,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## 效果展示
-![image](./example/screencap/Screenshot_2022-06-30-16-13-24-081_com.example.example.jpg)  
-![image](./example/screencap/Screenshot_2022-06-30-16-14-20-769_com.example.example.jpg)    
-![image](./example/screencap/Screenrecorder-2022-06-30-16-15-20-954.mp4)    
-![image](./example/screencap/Screenrecorder-2022-06-30-16-15-56-870.mp4)    
+![image](./example/screencap/Screenshot_2022-06-30-16-13-24-081_com.example.example.jpg!/scale/50)  
+![image](./example/screencap/Screenshot_2022-06-30-16-14-20-769_com.example.example.jpg!/scale/50)    
+![image](./example/screencap/Screenrecorder-2022-06-30-16-15-20-954.mp4!/scale/50)    
+![image](./example/screencap/Screenrecorder-2022-06-30-16-15-56-870.mp4!/scale/50)    
 
 ## 使用方法  
 
