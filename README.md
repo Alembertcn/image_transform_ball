@@ -15,7 +15,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 效果展示
 ![image](./example/screencap/Screenshot_2022-06-30-16-13-24-081_com.example.example.jpg#pic_center =50%x50%)  
-![image](./example/screencap/Screenshot_2022-06-30-16-14-20-769_com.example.example.jpg#/scale/20)    
+![image](./example/screencap/Screenshot_2022-06-30-16-14-20-769_com.example.example.jpg#/scale/20)  
+<video src="./example/screencap/Screenrecorder-2022-06-30-16-15-20-954.mp4"></video>  
+![video](./example/screencap/Screenrecorder-2022-06-30-16-15-20-954.mp4)    
 ![image](./example/screencap/Screenrecorder-2022-06-30-16-15-20-954.mp4!/scale/50)    
 ![image](./example/screencap/Screenrecorder-2022-06-30-16-15-56-870.mp4!/scale/50)    
 
